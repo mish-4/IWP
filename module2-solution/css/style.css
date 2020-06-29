@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: #d6d6d6;
+    background-color: white;
 }
 
 h1 {
-    text-align: center;
     color: black;
+    text-align: center;
 }
 
 section {
@@ -32,15 +32,15 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
-    background-color: #76b8db;
+section.Chicken>h2 {
+    background-color: #8B0000;
 }
 
-section.fubini>h2 {
+section.Beef>h2 {
     background-color: #4f7acd;
 }
 
-section.luzin>h2 {
+section.Sushi>h2 {
     color: #e2e2e2;
     background-color: #10328a;
 }
